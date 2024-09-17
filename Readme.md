@@ -9,8 +9,6 @@ In recent years, many single hyperspectral image super-resolution methods have e
 ```
 sh demo.sh
 ```
-## Testing :<br>
-
 ## Recommended Environment:<br>
 
  - [ ] python = 3.9.16
