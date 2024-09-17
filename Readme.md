@@ -1,4 +1,4 @@
-# MAUN
+# SNLSR
 The code of Exploring the Spectral Prior for Hyperspectral Image Super-resolution
 
 Published in IEEE Transactions on Image Processing 24
