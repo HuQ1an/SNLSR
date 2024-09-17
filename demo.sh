@@ -1,0 +1,1 @@
+python mains.py  --dataset_name 'Chikusei' --batch_size 8 --gpus "0"  --epochs 1000 --model_title 'SNLSR' --learning_rate 2e-4 --n_scale 4
