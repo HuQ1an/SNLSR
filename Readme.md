@@ -21,3 +21,12 @@ sh demo.sh
 If you have any questions, please feel free to contact me at huq1an@whu.edu.cn
 
 ## Citation :<br>
+```
+@article{hu2024exploring,
+  title={Exploring the Spectral Prior for Hyperspectral Image Super-resolution},
+  author={Hu, Qian and Wang, Xinya and Jiang, Junjun and Zhang, Xiao-Ping and Ma, Jiayi},
+  journal={IEEE Transactions on Image Processing},
+  year={2024},
+  publisher={IEEE}
+}
+```
